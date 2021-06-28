@@ -1,2 +1,2 @@
-# MAML
-[MICCAI 2021] The official code for "Modality-aware Mutual Learning for Multi-modal Medical Image Segmentation"
+# Modality-aware Mutual Learning for Multi-modal Medical Image Segmentation
+#### To be released soon
