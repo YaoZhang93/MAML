@@ -8,7 +8,7 @@ This is the implementation for the paper:
 
 Early Accepted by MICCAI 2021
 
-![image](https://github.com/YaoZhang93/TumorCP/blob/main/figs/MAML.pdf)
+![image](https://github.com/YaoZhang93/TumorCP/blob/main/figs/MAML.png)
 
 ## Usage
 
