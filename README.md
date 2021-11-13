@@ -26,9 +26,15 @@ Early Accepted by MICCAI 2021
 
 * Train
 
-  Train the model by
+  - Train the model by
 
   `python run/run_training.py 3d_fullres MAMLTrainerV2 32 0`
+
+* Test
+
+  - inference on the test data by
+
+  `python inference/predict_simple.py -i INPUT_PATH -o OUTPUT_PATH -t 32 -f 0 -tr MAMLTrainerV2`
 
  `MAML` is integrated with the out-of-box [nnUNet](https://github.com/MIC-DKFZ/nnUNet). Please refer to it for more usage.
 
