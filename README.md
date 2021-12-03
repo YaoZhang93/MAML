@@ -10,7 +10,7 @@ Early Accepted by MICCAI 2021
 
 ![image](https://github.com/YaoZhang93/MAML/blob/main/figs/MAML.png)
 
-## Usage
+## Usage. 
 
 * Data Preparation
 
