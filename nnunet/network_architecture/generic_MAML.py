@@ -534,7 +534,7 @@ class Generic_MAML(SegmentationNetwork):
         
 
     def forward(self, x):
-        x = torch.chunk(x, 4, dim=1)
+        x = torch.chunk(x, self.modality_num, dim=1)
         modality_features = []
         final_outputs = []
         for i in range(self.modality_num):
