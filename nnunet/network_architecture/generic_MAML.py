@@ -558,7 +558,7 @@ class Generic_MAML(SegmentationNetwork):
             return tuple(final_outputs)
         else:
             # return output
-            return final_outputs[6]
+            return final_outputs[0]
 
     @staticmethod
     def compute_approx_vram_consumption(patch_size, num_pool_per_axis, base_num_features, max_num_features,
