@@ -6,7 +6,7 @@ This is the implementation for the paper:
 
 [Modality-aware Mutual Learning for Multi-modal Medical Image Segmentation](https://arxiv.org/pdf/2107.09842.pdf)
 
-Early Accepted by MICCAI 2021
+Early Accepted to MICCAI 2021
 
 ![image](https://github.com/YaoZhang93/MAML/blob/main/figs/MAML.png)
 
